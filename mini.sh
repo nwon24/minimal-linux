@@ -18,6 +18,8 @@ simple-scan \
 thunderbird-gnome-support \
 aisleriot \
 gnome-mahjongg \
+gnome-chess \
+uxterm \
 gnome-mines \
 gnome-sudoku \
 branding-ubuntu \
